@@ -1,0 +1,6 @@
+{
+  "prompt": "A lone hiker stands in a shallow mountain valley at dusk, surrounded by vast foggy peaks disappearing into low clouds. Viewed from slightly above. Behind the hiker, deep footprints carve a winding trail through wet moss and dark rock, always descending, never going uphill. The hiker looks downward at their feet. Larger deeper valleys are barely visible through the mist in the distance. Photorealistic, cinematic, no text, no labels, no diagrams.",
+  "model": "DALL-E 3",
+  "concept": "gradient descent",
+  "metaphor": "A fog-bound hiker always stepping downhill ends in a shallow valley, unable to see deeper valleys nearby — mirroring iterative local optimization without global vision."
+}
